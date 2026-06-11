@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ### 2. Configure environment
 
 ```bash
-cp .env.example .env
+
 # Edit .env and add your OPENAI_API_KEY
 ```
 
